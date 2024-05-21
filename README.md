@@ -1,14 +1,14 @@
-# 👨‍💻 Назарий — Backend Разработчик
+# 👨‍💻 Nazariy — Backend Developer
 
 
-## 🔗 Связаться со мной
+## 🔗 Links
 
 - **Email:** [Gmail](mailto:nazarijbeketovv@gmail.com)
 - **HH.ru:** [HH.ru](https://hh.ru/resume/64c611f4ff0cbecf730039ed1f473045696173)
 - **GitHub:** [GitHub](https://github.com/nazarijbeketovv)
 
 
-## 🛠 Технологии и Инструменты
+## 🛠 Technologies and Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -18,17 +18,17 @@
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
 
-## 📈 Статистика GitHub
+## 📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazarijbeketovv&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazarijbeketovv&layout=compact&theme=radical)
 
 
 
-## 📝 Проекты
+## 📝 Projects
 
-### 🛫 [Система Бронирования Авиабилетов](https://github.com/nazarijbeketovv/AviaDjango)
+### 🛫 [Air Ticket Booking System](https://github.com/nazarijbeketovv/AviaDjango)
 
-Проект для бронирования авиабилетов с использованием Django, Celery и Redis. Позволяет пользователям искать рейсы, бронировать билеты и управлять своими бронированиями.
+Airline booking project using Django, Celery and Redis. Allows users to search for flights, book tickets and manage their bookings.
 
 
