@@ -3,10 +3,10 @@
 
 ## 🔗 Связаться со мной
 
-- **Email:** [ваш.email@example.com](mailto:ваш.email@example.com)
-- **LinkedIn:** [Ваш профиль LinkedIn](https://www.linkedin.com/in/ваш-профиль/)
-- **GitHub:** [Ваш профиль GitHub](https://github.com/ваш-профиль)
-- **Личный сайт:** [ваш-сайт.com](https://ваш-сайт.com)
+- **Email:** [Gmail](mailto:nazarijbeketovv@gmail.com)
+- **HH.ru:** [HH.ru](https://hh.ru/resume/64c611f4ff0cbecf730039ed1f473045696173)
+- **GitHub:** [GitHub](https://github.com/nazarijbeketovv)
+
 
 ## 🛠 Технологии и Инструменты
 
@@ -20,19 +20,15 @@
 
 ## 📈 Статистика GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш-логин&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш-логин&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazarijbeketovv&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazarijbeketovv&layout=compact&theme=radical)
 
 
 
 ## 📝 Проекты
 
-### 🛫 [Система Бронирования Авиабилетов](https://github.com/ваш-логин/flight-booking-system)
+### 🛫 [Система Бронирования Авиабилетов](https://github.com/nazarijbeketovv/AviaDjango)
 
 Проект для бронирования авиабилетов с использованием Django, Celery и Redis. Позволяет пользователям искать рейсы, бронировать билеты и управлять своими бронированиями.
-
-### 📚 [Библиотека Управления Книгами](https://github.com/ваш-логин/book-management-system)
-
-Веб-приложение для управления библиотекой книг, разработанное с использованием Django и React. Включает функции добавления, редактирования и удаления книг, а также поиска и фильтрации.
 
 
